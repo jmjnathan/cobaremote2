@@ -8,5 +8,6 @@
 <body>
     <h2>Ini Index PHP</h2>
     <p>ini isinya</p>
+    <p>ini tambahan</p>
 </body>
 </html>
